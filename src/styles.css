@@ -1,0 +1,12 @@
+
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+  background: linear-gradient(90deg, rgb(7, 1, 124) 0%, rgb(47, 47, 180) 35%, rgb(38, 38, 240)100%);
+}
